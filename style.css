@@ -1,0 +1,29 @@
+body {
+    background-image: url("back.jpg");
+    background-color: #cccccc;
+
+   }
+
+p{
+    color: wheat;
+    text-align: center;
+}
+
+h1{
+    color: wheat;
+    text-align: center;
+}
+
+span{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+input{
+    background-color: blue;
+}
+
+button{
+    background-color: red;
+}
